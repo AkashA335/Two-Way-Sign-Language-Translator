@@ -1,3 +1,37 @@
+# Real-Time Two-Way Sign Language Translator 🤟🔊
+
+- Develops a system using MediaPipe, CannyEdge, and OpenCV for real-time gesture recognition.
+- Translates sign language gestures into text and vice versa, enhancing communication between hearing and deaf individuals.
+
+## Speech To Sign 🎤🗣️📜
+
+- Records audio with PyAudio.
+- Converts audio to text using Whisper AI.
+- Translates text into sign language gestures using a dataset of GIFs converted to MP4 format.
+
+## Sign To Speech 📹🧠🔊
+
+- Uses a webcam to capture sign language gestures.
+- Processes gestures with MediaPipe and Canny edge detection to interpret them into text.
+- Converts interpreted text into speech using gTTS for real-time translation from sign language to spoken language.
+
+### Enhanced Communication Accessibility 🌐
+
+- Focuses on enhancing accessibility through real-time translation across audio, text, and sign language.
+
+### Neural Network for Gesture Prediction 🤖
+
+- Leverages a trained neural network for accurate gesture prediction in sign language interpretation.
+
+### Bridging Communication Gap 🌍
+
+- Aims to bridge the communication gap between sign language users and non-sign language speakers.
+
+### Facilitating Seamless Communication 🔄
+
+- Enables seamless communication by providing real-time translation capabilities for improved accessibility.
+
+
 # Installation Process 🛠️
 
 ## Global 🌐
