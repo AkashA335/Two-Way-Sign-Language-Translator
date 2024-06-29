@@ -1,0 +1,9 @@
+# Ignore .env files
+*.env
+
+# Ignore virtual environment directories
+SignToText/ActionToText/.venv/
+SignToText/AlnumSignToText/.venv/
+
+# Optional: Ignore any .env files within a specific directory (assuming it's not nested deeper)
+TextToSign/.env

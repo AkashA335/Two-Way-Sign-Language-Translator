@@ -1,0 +1,6 @@
+opencv-python
+numpy
+tensorflow #I used 2.10.1 with corresponding CUDA(11.8) and CUDNN
+scikit-learn
+matplotlib
+Pillow
